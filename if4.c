@@ -12,7 +12,7 @@ int main()
         case 1:
             printf("Your exam is at 8\n");
             break;
-
+        
         case 2:
             printf("Your exam is at 9\n");
             break;
